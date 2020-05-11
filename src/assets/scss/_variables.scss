@@ -291,7 +291,7 @@ $display3-weight:             300 !default;
 $display4-weight:             300 !default;
 $display-line-height:         $headings-line-height !default;
 
-$lead-font-size:              $font-size-base * 1.25 !default;
+$lead-font-size:              $font-size-base * 1.125 !default;
 $lead-font-weight:            300 !default;
 
 $small-font-size:             80% !default;
@@ -1016,7 +1016,7 @@ $figure-caption-color:              $gray-600 !default;
 
 $breadcrumb-padding-y:              .75rem !default;
 $breadcrumb-padding-x:              1rem !default;
-$breadcrumb-item-padding:           .5rem !default;
+$breadcrumb-item-padding:           1.5rem !default;
 
 $breadcrumb-margin-bottom:          1rem !default;
 
